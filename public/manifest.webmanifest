@@ -1,1 +1,1 @@
-{"name":"freshfresh","short_name":"freshfresh","start_url":"/","display":"standalone","background_color":"#f2f0e8","theme_color":"#f2f0e8","description":"Eat better. Live easier."}
+{"name":"freshfresh","short_name":"freshfresh","start_url":"/","display":"standalone","background_color":"#f8f8f2","theme_color":"#294f3d","description":"Good food. Less effort.","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
